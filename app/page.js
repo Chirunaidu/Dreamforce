@@ -1,8 +1,8 @@
 "use client";
 import Image from "next/image";
 import React, { useState } from "react";
-import  Header  from "../Components/ui/Header";
-import Footey from "../Components/ui/Footey";
+import  Header  from "./Components/ui/Header";
+import Footey from "./Components/ui/Footey";
 import Head from "next/head";
 
 function page() {
